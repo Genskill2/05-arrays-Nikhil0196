@@ -70,7 +70,7 @@ int factors(int n, int x[])
        }
     }
     return t;
-}         
+}
     
 
   
